@@ -2,8 +2,8 @@
 In this section i will show you my note about English Grammars and others.
 
 ### Much vs Many vs "a lot of"
-. | Uncountable Noun | Plural Countable Noun
+. | Uncountable Nouns | Plural Countable Nouns
 --- | ---------------- | ---------------------
-Much | <center>y</center> | 
-Many | | <center>y</center>
-a lot of | <center>y</center> | <center>y</center>
+Much | y | 
+Many | | y
+a lot of | y | y
