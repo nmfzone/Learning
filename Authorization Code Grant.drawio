@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-23T20:41:37.250Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="TX54sE8yh8JQ64uXm9-j" version="12.5.6" type="github">
+<mxfile host="www.draw.io" modified="2020-01-23T20:41:46.643Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="S_ly3fYi4inTeyVL4a89" version="12.5.6" type="github">
   <diagram id="TUD4Qfy9X21RP5nRfG84" name="Page-1">
     <mxGraphModel dx="946" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -86,7 +86,7 @@
             <mxPoint x="203.00000000000003" y="540" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="g1Oo1TAKyDqfNUe1gLmf-20" value="6. Mendapatkan kode akses" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="g1Oo1TAKyDqfNUe1gLmf-19">
+        <mxCell id="g1Oo1TAKyDqfNUe1gLmf-20" value="6. Mendapatkan token akses" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="g1Oo1TAKyDqfNUe1gLmf-19">
           <mxGeometry x="-0.4933" y="-1" relative="1" as="geometry">
             <mxPoint as="offset"/>
           </mxGeometry>
