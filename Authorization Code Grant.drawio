@@ -1,1 +1,97 @@
-<mxfile host="www.draw.io" modified="2020-01-23T20:30:23.450Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" version="12.5.6" etag="BjnOhey4tgMA08_kp-8c" type="github"><diagram id="TUD4Qfy9X21RP5nRfG84">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-01-23T20:41:37.250Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="TX54sE8yh8JQ64uXm9-j" version="12.5.6" type="github">
+  <diagram id="TUD4Qfy9X21RP5nRfG84" name="Page-1">
+    <mxGraphModel dx="946" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="g1Oo1TAKyDqfNUe1gLmf-1" value="" style="shape=mxgraph.bpmn.user_task;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="110" width="40" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="g1Oo1TAKyDqfNUe1gLmf-2" value="Pengguna&lt;br&gt;(Pemilik Sumber Daya)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="173" width="140" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="g1Oo1TAKyDqfNUe1gLmf-4" value="Aplikasi&lt;br&gt;Klien" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="240" width="120" height="320" as="geometry"/>
+        </mxCell>
+        <mxCell id="g1Oo1TAKyDqfNUe1gLmf-5" value="Server&lt;br&gt;Otorisasi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="240" width="120" height="320" as="geometry"/>
+        </mxCell>
+        <mxCell id="g1Oo1TAKyDqfNUe1gLmf-7" value="" style="endArrow=classic;html=1;exitX=0.507;exitY=1.133;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.008;entryY=0.069;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="g1Oo1TAKyDqfNUe1gLmf-2" target="g1Oo1TAKyDqfNUe1gLmf-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="630" as="sourcePoint"/>
+            <mxPoint x="170" y="580" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="421" y="262"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g1Oo1TAKyDqfNUe1gLmf-10" value="1. Akses Aplikasi Klien" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="g1Oo1TAKyDqfNUe1gLmf-7">
+          <mxGeometry x="0.2509" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g1Oo1TAKyDqfNUe1gLmf-11" value="" style="endArrow=classic;html=1;exitX=0.507;exitY=1.133;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.008;entryY=0.281;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="g1Oo1TAKyDqfNUe1gLmf-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430.98" y="207.99" as="sourcePoint"/>
+            <mxPoint x="580" y="270" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="431" y="330"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g1Oo1TAKyDqfNUe1gLmf-12" value="3. Pengguna terautentikasi dan&lt;br&gt;mengizinkan aplikasi" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="g1Oo1TAKyDqfNUe1gLmf-11">
+          <mxGeometry x="0.2509" relative="1" as="geometry">
+            <mxPoint x="22" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g1Oo1TAKyDqfNUe1gLmf-13" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.169;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.175;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="g1Oo1TAKyDqfNUe1gLmf-4" target="g1Oo1TAKyDqfNUe1gLmf-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240.96000000000004" y="293.88" as="sourcePoint"/>
+            <mxPoint x="596.04" y="293.88" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g1Oo1TAKyDqfNUe1gLmf-14" value="2. Permintaan otorisasi pengguna" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="g1Oo1TAKyDqfNUe1gLmf-13">
+          <mxGeometry x="0.4365" y="2" relative="1" as="geometry">
+            <mxPoint x="-8" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g1Oo1TAKyDqfNUe1gLmf-6" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;User Agent&lt;br&gt;(Browser)" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="240" width="90" height="240" as="geometry"/>
+        </mxCell>
+        <mxCell id="g1Oo1TAKyDqfNUe1gLmf-15" value="" style="endArrow=classic;html=1;exitX=-0.017;exitY=0.425;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.033;entryY=0.425;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="g1Oo1TAKyDqfNUe1gLmf-5" target="g1Oo1TAKyDqfNUe1gLmf-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="630" as="sourcePoint"/>
+            <mxPoint x="130" y="580" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g1Oo1TAKyDqfNUe1gLmf-16" value="4. Mendapatkan kode otorisasi" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="g1Oo1TAKyDqfNUe1gLmf-15">
+          <mxGeometry x="-0.4933" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g1Oo1TAKyDqfNUe1gLmf-17" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.169;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.175;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="501.91999999999996" as="sourcePoint"/>
+            <mxPoint x="640" y="500" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g1Oo1TAKyDqfNUe1gLmf-18" value="5. Permintaan token akses" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="g1Oo1TAKyDqfNUe1gLmf-17">
+          <mxGeometry x="0.4365" y="2" relative="1" as="geometry">
+            <mxPoint x="-8" as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g1Oo1TAKyDqfNUe1gLmf-19" value="" style="endArrow=classic;html=1;exitX=-0.017;exitY=0.425;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.033;entryY=0.425;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="637" y="540" as="sourcePoint"/>
+            <mxPoint x="203.00000000000003" y="540" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g1Oo1TAKyDqfNUe1gLmf-20" value="6. Mendapatkan kode akses" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="g1Oo1TAKyDqfNUe1gLmf-19">
+          <mxGeometry x="-0.4933" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
