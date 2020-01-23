@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-23T17:17:24.666Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="DRppUzwkc_n6UNW1p5rX" version="12.5.6" type="github">
+<mxfile host="www.draw.io" modified="2020-01-23T19:23:22.092Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="mSqM0m9UR9m5-WSz2Dm9" version="12.5.6" type="github">
   <diagram id="2MfJWiws-Kci31_PDs6C" name="Page-1">
     <mxGraphModel dx="946" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -59,7 +59,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9glC96ykaSKt2d4-Tw0H-15" value="3. Cek cookie terdapat&lt;br&gt;access_token atau tidak" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" parent="9glC96ykaSKt2d4-Tw0H-14" vertex="1" connectable="0">
+        <mxCell id="9glC96ykaSKt2d4-Tw0H-15" value="3. Cek sesi terdapat&lt;br&gt;access_token atau tidak" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" parent="9glC96ykaSKt2d4-Tw0H-14" vertex="1" connectable="0">
           <mxGeometry x="-0.0612" y="26" relative="1" as="geometry">
             <mxPoint x="-26" y="26" as="offset"/>
           </mxGeometry>
@@ -73,7 +73,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9glC96ykaSKt2d4-Tw0H-17" value="3. Cek cookie terdapat&lt;br&gt;access_token atau tidak" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" parent="9glC96ykaSKt2d4-Tw0H-16" vertex="1" connectable="0">
+        <mxCell id="9glC96ykaSKt2d4-Tw0H-17" value="3. Cek sesi terdapat&lt;br&gt;access_token atau tidak" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" parent="9glC96ykaSKt2d4-Tw0H-16" vertex="1" connectable="0">
           <mxGeometry x="-0.0612" y="26" relative="1" as="geometry">
             <mxPoint x="-26" y="26" as="offset"/>
           </mxGeometry>
@@ -93,7 +93,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9glC96ykaSKt2d4-Tw0H-29" value="5. Jika access_token tidak valid, hapus data cookie.&lt;br&gt;Alihkan halaman ke cas.domain.com untuk login.&lt;br&gt;Jika login berhasil, simpan access_token di Redis." style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="9glC96ykaSKt2d4-Tw0H-5" target="9glC96ykaSKt2d4-Tw0H-12" edge="1">
+        <mxCell id="9glC96ykaSKt2d4-Tw0H-29" value="5. Jika access_token tidak valid, hapus data sesi.&lt;br&gt;Alihkan halaman ke cas.domain.com untuk login.&lt;br&gt;Jika login berhasil, simpan access_token di Redis." style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="9glC96ykaSKt2d4-Tw0H-5" target="9glC96ykaSKt2d4-Tw0H-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="20" y="220" as="sourcePoint"/>
             <mxPoint x="70" y="170" as="targetPoint"/>
