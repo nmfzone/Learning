@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-24T20:52:12.091Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="G3kiLOQi0MmvAfgmuRBc" version="12.5.6" type="github">
+<mxfile host="www.draw.io" modified="2020-01-24T20:52:25.349Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="_naxZnqV0idCL2wfCW7o" version="12.5.6" type="github">
   <diagram id="fleCQ6zJBqUZ3tIab3Ot" name="Page-1">
     <mxGraphModel dx="946" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -26,22 +26,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="500" as="sourcePoint"/>
             <mxPoint x="200" y="430" as="targetPoint"/>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RZa-VDKIyFrEI2wWvw8Y-13" value="" style="curved=1;endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RZa-VDKIyFrEI2wWvw8Y-4" target="RZa-VDKIyFrEI2wWvw8Y-4">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="60" y="490" as="sourcePoint"/>
-            <mxPoint x="110" y="440" as="targetPoint"/>
-            <Array as="points">
-              <mxPoint x="80" y="350"/>
-              <mxPoint x="190" y="280"/>
-              <mxPoint x="320" y="350"/>
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RZa-VDKIyFrEI2wWvw8Y-14" value="3. Menghpaus sesi lokal" style="text;html=1;align=center;verticalAlign=top;resizable=0;points=[];labelBackgroundColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;" vertex="1" connectable="0" parent="RZa-VDKIyFrEI2wWvw8Y-13">
-          <mxGeometry x="-0.1188" y="-14" relative="1" as="geometry">
-            <mxPoint as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="RZa-VDKIyFrEI2wWvw8Y-8" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="RZa-VDKIyFrEI2wWvw8Y-4" target="RZa-VDKIyFrEI2wWvw8Y-1">
@@ -78,6 +62,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RZa-VDKIyFrEI2wWvw8Y-18" value="3. Menghpaus sesi lokal" style="text;html=1;align=center;verticalAlign=top;resizable=0;points=[];labelBackgroundColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;" vertex="1" connectable="0" parent="RZa-VDKIyFrEI2wWvw8Y-17">
+          <mxGeometry x="-0.1188" y="-14" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RZa-VDKIyFrEI2wWvw8Y-13" value="" style="curved=1;endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RZa-VDKIyFrEI2wWvw8Y-4" target="RZa-VDKIyFrEI2wWvw8Y-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="490" as="sourcePoint"/>
+            <mxPoint x="110" y="440" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="80" y="350"/>
+              <mxPoint x="190" y="280"/>
+              <mxPoint x="320" y="350"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RZa-VDKIyFrEI2wWvw8Y-14" value="3. Menghpaus sesi lokal" style="text;html=1;align=center;verticalAlign=top;resizable=0;points=[];labelBackgroundColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;" vertex="1" connectable="0" parent="RZa-VDKIyFrEI2wWvw8Y-13">
           <mxGeometry x="-0.1188" y="-14" relative="1" as="geometry">
             <mxPoint as="offset"/>
           </mxGeometry>
