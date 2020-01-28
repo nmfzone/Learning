@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-28T12:16:16.454Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="_hJpWR7_D-KkELK5dyzQ" version="12.5.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-28T12:18:43.890Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="7g7MM02V3uT95ZeYHZXa" version="12.5.8" type="github">
   <diagram id="qEP81RRFLYTvViG9lAEV" name="Page-1">
     <mxGraphModel dx="1113" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="190" y="300" width="130" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="eWIqQDfn0TUbJPlVP81D-4" value="Basis Data&lt;br&gt;Replikasi 1" style="shape=dataStorage;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="460" width="100" height="80" as="geometry"/>
+          <mxGeometry x="95" y="460" width="100" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="eWIqQDfn0TUbJPlVP81D-5" value="Basis Data&lt;br&gt;Replikasi 2" style="shape=dataStorage;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="460" width="100" height="80" as="geometry"/>
@@ -68,6 +68,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="390" as="sourcePoint"/>
             <mxPoint x="520" y="240" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eWIqQDfn0TUbJPlVP81D-23" value="mendengarkan&lt;br&gt;replikasi" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="eWIqQDfn0TUbJPlVP81D-19">
+          <mxGeometry x="-0.0301" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="eWIqQDfn0TUbJPlVP81D-21" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
