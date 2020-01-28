@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-28T12:10:46.647Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="TEqx88z-Oa1ZmleXMlv5" version="12.5.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-28T12:16:16.454Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="_hJpWR7_D-KkELK5dyzQ" version="12.5.8" type="github">
   <diagram id="qEP81RRFLYTvViG9lAEV" name="Page-1">
     <mxGraphModel dx="1113" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,10 +10,10 @@
         <mxCell id="eWIqQDfn0TUbJPlVP81D-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="30" y="150" width="430" height="410" as="geometry"/>
         </mxCell>
-        <mxCell id="eWIqQDfn0TUbJPlVP81D-1" value="Aplikasi Klien" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eWIqQDfn0TUbJPlVP81D-1" value="Aplikasi PPSDM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="195" y="180" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="eWIqQDfn0TUbJPlVP81D-3" value="Basis Data&lt;br&gt;PPSDM (Utama)" style="shape=dataStorage;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eWIqQDfn0TUbJPlVP81D-3" value="Basis Data&lt;br&gt;Utama" style="shape=dataStorage;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="300" width="130" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="eWIqQDfn0TUbJPlVP81D-4" value="Basis Data&lt;br&gt;Replikasi 1" style="shape=dataStorage;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -61,7 +61,7 @@
         </mxCell>
         <mxCell id="eWIqQDfn0TUbJPlVP81D-20" value="&lt;span style=&quot;font-size: 11px&quot;&gt;Tambah / Perbarui Data&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="eWIqQDfn0TUbJPlVP81D-18">
           <mxGeometry x="0.0909" y="-22" relative="1" as="geometry">
-            <mxPoint x="23" y="22" as="offset"/>
+            <mxPoint x="22" y="-13.530000000000001" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="eWIqQDfn0TUbJPlVP81D-19" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eWIqQDfn0TUbJPlVP81D-21" target="eWIqQDfn0TUbJPlVP81D-14">
