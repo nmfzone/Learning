@@ -16,6 +16,7 @@ a lot of | y | y
 
 ### Go vs goes vs going vs went
 . | They/We/I/You | He/She/It | Simple Present Tense | Past | Continous
+--- | ----------- | --------- | -------------------- | ---- | ---------
 go | y | - | y | - | -
 goes | - | y | - | -
 going | y | y | - | - | y
